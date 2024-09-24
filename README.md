@@ -10,4 +10,4 @@ Simple, modern UI with responsive design.
 Tech Stack
 Frontend: React
 CSS: Custom CSS for styling
-Deployment: GitHub Pages (optional)
+
